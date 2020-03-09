@@ -1,7 +1,7 @@
-# CoronaVirusTracker-iOS
+# CoronaVirusTracker-Android
 * This is a wrapper app (iOS) for the website created by https://www.1point3acres.com/
-* There's no app for users to access the coronavirus updates easily
+* This app is to help people access the coronavirus updates easily
 * All credits to 1point3acres.com, and source codes of this project belong to the world
-* The URLs
-** Chinese Version: https://coronavirus.1point3acres.com/
-** English Version: https://coronavirus.1point3acres.com/en
+* The URL Chinese Version: https://coronavirus.1point3acres.com/
+* The URL English Version: https://coronavirus.1point3acres.com/en
+* Note to 一亩三分地: The ownership of this project can be transferred to you any time if needed.
